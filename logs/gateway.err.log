@@ -1309,3 +1309,4 @@ Command exited with code 127
 
 Command exited with code 1
 2026-02-17T10:52:19.399-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: tab not found)
+2026-02-17T10:55:30.033-08:00 [tools] read failed: ENOENT: no such file or directory, access '/Users/ava/.openclaw/workspace/memory/2026-02-17.md'
