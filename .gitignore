@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Secrets - NEVER commit these
+.credentials/
+.env
+.env.*
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian - optional to sync, but can cause conflicts
+# .obsidian/workspace.json
+# .obsidian/cache
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Screenshots (optional - uncomment if you want to exclude)
+# *.png
+# *.jpg
+
+# OpenClaw internal
+.openclaw/
