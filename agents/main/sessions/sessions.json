@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
-    "updatedAt": 1771310524634,
+    "updatedAt": 1771311600025,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -12,8 +12,8 @@
     },
     "lastChannel": "telegram",
     "origin": {
-      "label": "Sassan (@sassan1354) id:1989630182",
-      "provider": "telegram",
+      "label": "telegram:1989630182",
+      "provider": "cron-event",
       "surface": "telegram",
       "chatType": "direct",
       "from": "telegram:1989630182",

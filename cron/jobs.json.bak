@@ -21,7 +21,8 @@
         "text": "Check today's to-do list at todo/$(date +%Y-%m-%d).md. Count incomplete tasks (lines with [ ]). If any incomplete: send message listing them and ask: 'X tasks incomplete for today. Which ones should I move to tomorrow?' Wait for response before moving anything."
       },
       "state": {
-        "nextRunAtMs": 1771311600000
+        "nextRunAtMs": 1771311600000,
+        "runningAtMs": 1771311600004
       }
     }
   ]
