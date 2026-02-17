@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "profiles": {
+    "anthropic:claude_setup_token": {
+      "type": "token",
+      "provider": "anthropic",
+      "token": "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"
+    }
+  },
+  "lastGood": {
+    "anthropic": "anthropic:claude_setup_token"
+  },
+  "usageStats": {
+    "anthropic:claude_setup_token": {
+      "lastUsed": 1771306823422,
+      "errorCount": 0
+    }
+  }
+}

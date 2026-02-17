@@ -1,29 +1,37 @@
-# Dependencies
-node_modules/
-
-# Secrets - NEVER commit these
-.credentials/
-.env
-.env.*
+# Secrets - NEVER commit
+credentials/
+workspace/.credentials/
 *.key
 *.pem
+.env
+.env.*
+
+# Config with tokens (contains bot tokens, API keys)
+openclaw.json
+openclaw.json.bak*
+
+# Session data
+telegram/
+delivery-queue/
+
+# Browser data (cookies, sessions, cache)
+browser/
+
+# Media (inbound files, can be large)
+media/inbound/
+
+# Dependencies
+workspace/node_modules/
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Obsidian - optional to sync, but can cause conflicts
-# .obsidian/workspace.json
-# .obsidian/cache
-
-# Temporary files
+# Temp files
 *.tmp
-*.log
-*.bak
+*.log.old
+restart-sentinel.json
 
-# Screenshots (optional - uncomment if you want to exclude)
-# *.png
-# *.jpg
-
-# OpenClaw internal
-.openclaw/
+# Obsidian cache (can cause conflicts)
+workspace/.obsidian/workspace.json
+workspace/.obsidian/cache

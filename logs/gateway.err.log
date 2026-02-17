@@ -1,0 +1,1127 @@
+2026-02-16T04:58:51.801Z [telegram] deleteMyCommands failed: Call to 'deleteMyCommands' failed! (401: Unauthorized)
+2026-02-16T04:58:51.810Z [telegram] [default] channel exited: Call to 'getMe' failed! (401: Unauthorized)
+2026-02-16T04:58:52.486Z [telegram] setMyCommands failed: Call to 'setMyCommands' failed! (401: Unauthorized)
+2026-02-15T20:59:14.766-08:00 [tools] read failed: ENOENT: no such file or directory, access '/Users/ava/.openclaw/workspace/memory/2026-02-15.md'
+2026-02-15T20:59:14.776-08:00 [tools] read failed: ENOENT: no such file or directory, access '/Users/ava/.openclaw/workspace/memory/2026-02-14.md'
+2026-02-15T20:59:14.779-08:00 [tools] read failed: ENOENT: no such file or directory, access '/Users/ava/.openclaw/workspace/MEMORY.md'
+2026-02-15T21:00:06.678-08:00 [tools] read failed: EISDIR: illegal operation on a directory, read
+2026-02-15T21:02:28.597-08:00 [tools] exec failed: error: too many arguments for 'status'. Expected 0 arguments but got 1.
+
+Command exited with code 1
+2026-02-15T21:05:32.514-08:00 [openclaw] Suppressed AbortError: AbortError: This operation was aborted
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-15T21:26:10.296-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Element "e119" not found or not visible. Run a new snapshot to see current page elements.)
+2026-02-15T21:26:27.281-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Element "e119" not found or not visible. Run a new snapshot to see current page elements.)
+2026-02-15T21:26:43.920-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Element "e119" not found or not visible. Run a new snapshot to see current page elements.)
+2026-02-15T21:39:05.846-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: tab not found)
+2026-02-15T21:41:08.965-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T21:41:57.485-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T21:42:20.275-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service (timed out after 20000ms). Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable.
+2026-02-15T21:42:53.037-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T21:43:06.525-08:00 [openclaw] Suppressed AbortError: AbortError: This operation was aborted
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T05:47:46.310Z [ws] unauthorized conn=e1c7a66d-3735-4f2a-be7b-3d8b0a502091 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:47:46.313Z [ws] closed before connect conn=e1c7a66d-3735-4f2a-be7b-3d8b0a502091 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=4008 reason=connect failed
+2026-02-16T05:47:47.129Z [ws] unauthorized conn=94df9b09-d0f7-471c-aaaa-ede738e27258 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:47:47.134Z [ws] closed before connect conn=94df9b09-d0f7-471c-aaaa-ede738e27258 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:47:48.512Z [ws] unauthorized conn=88e75ddb-811b-431e-b9c0-e5c980259e9d remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:47:48.517Z [ws] closed before connect conn=88e75ddb-811b-431e-b9c0-e5c980259e9d remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:47:50.850Z [ws] unauthorized conn=21d6444b-3c3d-483c-8a85-360e380c6a0c remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:47:50.852Z [ws] closed before connect conn=21d6444b-3c3d-483c-8a85-360e380c6a0c remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:47:55.206Z [ws] unauthorized conn=603baa92-67ce-4bfd-aed9-b8fbf013d969 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:47:55.208Z [ws] closed before connect conn=603baa92-67ce-4bfd-aed9-b8fbf013d969 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:48:01.909Z [ws] unauthorized conn=f8fd73ee-bbb0-4201-bd58-3883409b6478 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:48:01.912Z [ws] closed before connect conn=f8fd73ee-bbb0-4201-bd58-3883409b6478 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:48:13.290Z [ws] unauthorized conn=dec4f0f3-cd64-4f02-b4e6-e1570ba62bb6 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:48:13.293Z [ws] closed before connect conn=dec4f0f3-cd64-4f02-b4e6-e1570ba62bb6 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:48:28.314Z [ws] unauthorized conn=8d8b95d6-da6a-4c9a-aadb-97b45f8a310d remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:48:28.317Z [ws] closed before connect conn=8d8b95d6-da6a-4c9a-aadb-97b45f8a310d remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-15T21:48:40.243-08:00 [tools] exec failed: error: too many arguments for 'gateway'. Expected 0 arguments but got 1.
+
+Command exited with code 1
+2026-02-16T05:48:43.336Z [ws] unauthorized conn=cb8607c8-3e53-4513-b361-4a932a21ccae remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:48:43.339Z [ws] closed before connect conn=cb8607c8-3e53-4513-b361-4a932a21ccae remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:48:58.356Z [ws] unauthorized conn=049491e5-f649-415a-a084-d42363b26b83 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:48:58.358Z [ws] closed before connect conn=049491e5-f649-415a-a084-d42363b26b83 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:49:13.371Z [ws] unauthorized conn=46ebaee0-366d-4ca6-8b1e-1dd4033ef33d remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:49:13.372Z [ws] closed before connect conn=46ebaee0-366d-4ca6-8b1e-1dd4033ef33d remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:49:28.667Z [ws] unauthorized conn=7f77f45c-12c3-4785-95b5-1e6f6823bbd0 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:49:28.671Z [ws] closed before connect conn=7f77f45c-12c3-4785-95b5-1e6f6823bbd0 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:49:44.668Z [ws] unauthorized conn=890b987f-bee8-4bca-9a49-79545551cfcc remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:49:44.670Z [ws] closed before connect conn=890b987f-bee8-4bca-9a49-79545551cfcc remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:00.670Z [ws] unauthorized conn=613b9318-9ed4-4ec7-9fc6-f462802c5130 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:00.672Z [ws] closed before connect conn=613b9318-9ed4-4ec7-9fc6-f462802c5130 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:15.692Z [ws] unauthorized conn=dc3af71a-1fa6-4bd0-92e0-4df88a021ed1 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:15.695Z [ws] closed before connect conn=dc3af71a-1fa6-4bd0-92e0-4df88a021ed1 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:30.713Z [ws] unauthorized conn=c9abe4fe-8cec-4abe-b2ab-7c2e5656b272 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:30.718Z [ws] closed before connect conn=c9abe4fe-8cec-4abe-b2ab-7c2e5656b272 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:32.254Z [ws] unauthorized conn=5d7a6222-f7cc-4eaf-9745-3499ff76d3e0 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:32.255Z [ws] closed before connect conn=5d7a6222-f7cc-4eaf-9745-3499ff76d3e0 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:33.070Z [ws] unauthorized conn=7041efa4-9d92-4829-b041-1083d639346b remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:33.073Z [ws] closed before connect conn=7041efa4-9d92-4829-b041-1083d639346b remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:34.448Z [ws] unauthorized conn=af69e45d-da63-42c8-858f-83fd2834e59e remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:34.451Z [ws] closed before connect conn=af69e45d-da63-42c8-858f-83fd2834e59e remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:36.780Z [ws] unauthorized conn=5ffc9527-26ba-4487-94e9-14e4e5fcac7e remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:36.785Z [ws] closed before connect conn=5ffc9527-26ba-4487-94e9-14e4e5fcac7e remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:40.731Z [ws] unauthorized conn=84f022dd-b360-4200-b2f3-a6709da02c96 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:40.736Z [ws] closed before connect conn=84f022dd-b360-4200-b2f3-a6709da02c96 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:46.666Z [ws] unauthorized conn=a0def81d-468a-4c07-8bd9-35e7e6603bda remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:46.669Z [ws] closed before connect conn=a0def81d-468a-4c07-8bd9-35e7e6603bda remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:47.431Z [ws] unauthorized conn=45447457-1da4-468e-8693-c64ea482f9d2 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:47.433Z [ws] closed before connect conn=45447457-1da4-468e-8693-c64ea482f9d2 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:50:58.809Z [ws] unauthorized conn=e7dd4713-855c-47a5-bfaa-a0595a2a0d17 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:50:58.811Z [ws] closed before connect conn=e7dd4713-855c-47a5-bfaa-a0595a2a0d17 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:02.669Z [ws] unauthorized conn=5604314a-7ccd-4fb8-85a7-9e4a50b51954 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:02.674Z [ws] closed before connect conn=5604314a-7ccd-4fb8-85a7-9e4a50b51954 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:13.829Z [ws] unauthorized conn=a4f0c3db-ab3f-4cb3-a2fc-1184db1f8c60 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:13.832Z [ws] closed before connect conn=a4f0c3db-ab3f-4cb3-a2fc-1184db1f8c60 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:18.665Z [ws] unauthorized conn=4f0472f4-da1d-4d51-b35c-e7c383a9b18d remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:18.667Z [ws] closed before connect conn=4f0472f4-da1d-4d51-b35c-e7c383a9b18d remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:28.847Z [ws] unauthorized conn=f30c0039-94ed-4c06-aa73-51afbddbd28e remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:28.851Z [ws] closed before connect conn=f30c0039-94ed-4c06-aa73-51afbddbd28e remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:34.669Z [ws] unauthorized conn=d0b82285-5a34-44b1-983f-4c847f9c8a3e remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:34.672Z [ws] closed before connect conn=d0b82285-5a34-44b1-983f-4c847f9c8a3e remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:43.868Z [ws] unauthorized conn=38e96a21-0972-4755-926a-dd0980ff58a3 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:43.873Z [ws] closed before connect conn=38e96a21-0972-4755-926a-dd0980ff58a3 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-15T21:51:48.286-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Chrome extension relay is running, but no tab is connected. Click the OpenClaw Chrome extension icon on a tab to attach it (profile "chrome").)
+2026-02-16T05:51:50.667Z [ws] unauthorized conn=c01f71d4-7962-4275-b14e-b89e579beb25 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:50.669Z [ws] closed before connect conn=c01f71d4-7962-4275-b14e-b89e579beb25 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:55.398Z [ws] unauthorized conn=74619d67-5f0f-4c8b-97e4-5cc7335c0483 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:55.399Z [ws] closed before connect conn=74619d67-5f0f-4c8b-97e4-5cc7335c0483 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:56.279Z [ws] unauthorized conn=35a34ce1-4268-4015-bd7c-c44862a7fdf3 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:56.280Z [ws] closed before connect conn=35a34ce1-4268-4015-bd7c-c44862a7fdf3 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:57.662Z [ws] unauthorized conn=fdd01808-b479-4ebe-87b1-a30c6ac3994a remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:57.664Z [ws] closed before connect conn=fdd01808-b479-4ebe-87b1-a30c6ac3994a remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:58.886Z [ws] unauthorized conn=2270fa5b-3055-4699-b613-7a3e42659f60 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:58.888Z [ws] closed before connect conn=2270fa5b-3055-4699-b613-7a3e42659f60 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:51:59.995Z [ws] unauthorized conn=83a4ec52-ac65-4d1c-8aff-c1ea0000af85 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:51:59.998Z [ws] closed before connect conn=83a4ec52-ac65-4d1c-8aff-c1ea0000af85 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:03.945Z [ws] unauthorized conn=f5b04e32-6302-44ab-813d-ddc17cd0dd88 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:03.947Z [ws] closed before connect conn=f5b04e32-6302-44ab-813d-ddc17cd0dd88 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:06.667Z [ws] unauthorized conn=a639850d-55a3-4251-9dfd-765cbb10f824 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:06.669Z [ws] closed before connect conn=a639850d-55a3-4251-9dfd-765cbb10f824 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:10.644Z [ws] unauthorized conn=96cc3048-a574-45b6-8adf-421340655cce remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:10.646Z [ws] closed before connect conn=96cc3048-a574-45b6-8adf-421340655cce remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:13.905Z [ws] unauthorized conn=ac132d61-8f0d-46ed-93de-a384764e921c remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:13.907Z [ws] closed before connect conn=ac132d61-8f0d-46ed-93de-a384764e921c remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:22.021Z [ws] unauthorized conn=f6316d5d-09de-44b5-aee8-4173032276e9 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:22.025Z [ws] closed before connect conn=f6316d5d-09de-44b5-aee8-4173032276e9 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:22.667Z [ws] unauthorized conn=5df8457d-77ea-4701-a507-e9afa4245100 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:22.669Z [ws] closed before connect conn=5df8457d-77ea-4701-a507-e9afa4245100 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:28.924Z [ws] unauthorized conn=5ddf0f6b-6c05-4756-9992-f326a6fd1e67 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:28.927Z [ws] closed before connect conn=5ddf0f6b-6c05-4756-9992-f326a6fd1e67 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:37.045Z [ws] unauthorized conn=8929971a-6df3-4e31-9767-ba9200e81a7e remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:37.048Z [ws] closed before connect conn=8929971a-6df3-4e31-9767-ba9200e81a7e remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:38.665Z [ws] unauthorized conn=4d010441-0411-4daa-9dbb-36fe363830eb remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:38.667Z [ws] closed before connect conn=4d010441-0411-4daa-9dbb-36fe363830eb remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-15T21:52:39.208-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: page.evaluate: Error: Invalid evaluate function: Unexpected token ';'
+    at anonymous (eval at evaluate (:290:30), <anonymous>:19:17)
+    at UtilityScript.evaluate (<anonymous>:292:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44))
+2026-02-16T05:52:43.944Z [ws] unauthorized conn=5e28e055-166e-4794-aa3b-7d87104146a0 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:43.947Z [ws] closed before connect conn=5e28e055-166e-4794-aa3b-7d87104146a0 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:49.764Z [ws] unauthorized conn=67c44d71-a231-466c-9d02-4ad0a7840fbd remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:49.764Z [ws] closed before connect conn=67c44d71-a231-466c-9d02-4ad0a7840fbd remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:50.577Z [ws] unauthorized conn=048b072c-9af3-4186-bfe4-3036b70d9ee5 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:50.579Z [ws] closed before connect conn=048b072c-9af3-4186-bfe4-3036b70d9ee5 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:51.957Z [ws] unauthorized conn=c47620f9-eb6e-4312-80eb-7bd74c512ec3 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:51.960Z [ws] closed before connect conn=c47620f9-eb6e-4312-80eb-7bd74c512ec3 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:54.286Z [ws] unauthorized conn=3cde0a71-1ddf-4ead-be1d-b13e9955ac0c remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:54.289Z [ws] closed before connect conn=3cde0a71-1ddf-4ead-be1d-b13e9955ac0c remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:54.667Z [ws] unauthorized conn=64298725-3e43-477b-886a-8ce74748f706 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:54.670Z [ws] closed before connect conn=64298725-3e43-477b-886a-8ce74748f706 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:58.237Z [ws] unauthorized conn=f898a87f-f7d5-4759-a86c-eec1d2466450 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:58.240Z [ws] closed before connect conn=f898a87f-f7d5-4759-a86c-eec1d2466450 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:52:58.962Z [ws] unauthorized conn=8abf1821-7dbb-4585-a66f-f8dc27a9774f remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:52:58.965Z [ws] closed before connect conn=8abf1821-7dbb-4585-a66f-f8dc27a9774f remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:04.937Z [ws] unauthorized conn=1996fc69-59c3-4b2e-b769-88e0f00f4675 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:04.940Z [ws] closed before connect conn=1996fc69-59c3-4b2e-b769-88e0f00f4675 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:10.667Z [ws] unauthorized conn=ba64e722-79e3-470f-8e9d-7960548e0c22 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:10.669Z [ws] closed before connect conn=ba64e722-79e3-470f-8e9d-7960548e0c22 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:13.979Z [ws] unauthorized conn=d1a7e93e-d22d-4f8e-9cd3-21ea92a74149 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:13.981Z [ws] closed before connect conn=d1a7e93e-d22d-4f8e-9cd3-21ea92a74149 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:16.312Z [ws] unauthorized conn=766056f8-495a-4217-81da-13d4410d1b5a remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:16.315Z [ws] closed before connect conn=766056f8-495a-4217-81da-13d4410d1b5a remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:26.668Z [ws] unauthorized conn=da005708-6e54-4798-a4cc-9c4a02a059b4 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:26.671Z [ws] closed before connect conn=da005708-6e54-4798-a4cc-9c4a02a059b4 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:28.996Z [ws] unauthorized conn=306d0ef0-5ea0-48d8-90e7-ffb6e2771967 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:28.998Z [ws] closed before connect conn=306d0ef0-5ea0-48d8-90e7-ffb6e2771967 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:42.654Z [ws] unauthorized conn=385f6ebf-d4db-4817-a3fe-ac651da5d0ab remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:42.655Z [ws] closed before connect conn=385f6ebf-d4db-4817-a3fe-ac651da5d0ab remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:44.014Z [ws] unauthorized conn=d36431ad-e434-43c9-9c52-c35e09275122 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:44.016Z [ws] closed before connect conn=d36431ad-e434-43c9-9c52-c35e09275122 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:58.665Z [ws] unauthorized conn=0f6bf4cf-5f42-4625-bee5-ee419a795d4f remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:58.667Z [ws] closed before connect conn=0f6bf4cf-5f42-4625-bee5-ee419a795d4f remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:53:59.030Z [ws] unauthorized conn=82d799ad-c662-4d13-bd0c-dd38597b3dbf remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:53:59.033Z [ws] closed before connect conn=82d799ad-c662-4d13-bd0c-dd38597b3dbf remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:14.047Z [ws] unauthorized conn=80ab74d3-8172-4ac3-8652-603f4fbf77b9 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:14.049Z [ws] closed before connect conn=80ab74d3-8172-4ac3-8652-603f4fbf77b9 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:14.660Z [ws] unauthorized conn=294741f7-c37f-43dd-96a1-cc49018c30cb remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:14.661Z [ws] closed before connect conn=294741f7-c37f-43dd-96a1-cc49018c30cb remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:29.064Z [ws] unauthorized conn=7f81d090-8376-42ac-a4bb-6987d551f8dc remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:29.066Z [ws] closed before connect conn=7f81d090-8376-42ac-a4bb-6987d551f8dc remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:30.664Z [ws] unauthorized conn=061e3803-2fd9-4187-ace9-c007d1b00b3f remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:30.666Z [ws] closed before connect conn=061e3803-2fd9-4187-ace9-c007d1b00b3f remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:44.081Z [ws] unauthorized conn=1ab100f4-635d-4709-a790-edcc44454894 remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:44.084Z [ws] closed before connect conn=1ab100f4-635d-4709-a790-edcc44454894 remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:46.668Z [ws] unauthorized conn=b65caf34-d7f3-441d-88d8-99656de09390 remote=::1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:46.670Z [ws] closed before connect conn=b65caf34-d7f3-441d-88d8-99656de09390 remote=::1 fwd=n/a origin=http://localhost:18789 host=localhost:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:54.589Z [ws] unauthorized conn=fa7b86de-f88f-4c7b-9d20-75269bbd8a0a remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:54.591Z [ws] closed before connect conn=fa7b86de-f88f-4c7b-9d20-75269bbd8a0a remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-16T05:54:55.406Z [ws] unauthorized conn=9401975d-1368-4f54-b391-ca6966fadbca remote=127.0.0.1 client=openclaw-control-ui webchat vdev reason=token_missing
+2026-02-16T05:54:55.408Z [ws] closed before connect conn=9401975d-1368-4f54-b391-ca6966fadbca remote=127.0.0.1 fwd=n/a origin=http://127.0.0.1:18789 host=127.0.0.1:18789 ua=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 code=1008 reason=unauthorized: gateway token missing (open the dashboard URL and paste the token in Control UI settings)
+2026-02-15T21:55:56.220-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: tab not found)
+2026-02-15T21:58:16.212-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T21:58:37.530-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T22:00:54.387-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T22:02:14.236-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T22:12:17.466-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Chrome extension relay is running, but no tab is connected. Click the OpenClaw Chrome extension icon on a tab to attach it (profile "chrome").)
+2026-02-16T06:38:49.123Z [telegram] network error: Request to 'getUpdates' timed out after 500 seconds; retrying in 2.04s.
+2026-02-15T22:38:49.128-08:00 [openclaw] Suppressed AbortError: AbortError: This operation was aborted
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-15T22:48:27.588-08:00 [tools] exec failed: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+
+Command exited with code 1
+2026-02-15T22:48:34.203-08:00 [tools] exec failed: Command exited with code 1
+2026-02-15T22:52:42.004-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Chrome extension relay is running, but no tab is connected. Click the OpenClaw Chrome extension icon on a tab to attach it (profile "chrome").)
+2026-02-15T22:57:19.363-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T22:59:55.380-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Element "e1785" not found or not visible. Run a new snapshot to see current page elements.)
+2026-02-15T23:00:18.049-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-15T23:01:49.792-08:00 [tools] exec failed: zsh:1: command not found: screencapture
+
+Command exited with code 127
+2026-02-15T23:03:42.055-08:00 [tools] exec failed: 31:38: execution error: Mail got an error: Can’t get account 1. Invalid index. (-1719)
+
+Command exited with code 1
+2026-02-15T23:04:26.540-08:00 [tools] exec failed: /tmp/add_outlook_account.scpt:139:203: execution error: System Events got an error: osascript is not allowed assistive access. (-1719)
+
+Command exited with code 1
+2026-02-15T23:05:57.819-08:00 [tools] exec failed: 31:69: execution error: System Events got an error: osascript is not allowed to send keystrokes. (1002)
+
+Command exited with code 1
+2026-02-15T23:08:15.275-08:00 [tools] exec failed: 85:100: execution error: Mail got an error: Can’t get mailbox "INBOX" of account id "E9EE0333-7B47-412B-87A8-DC475867CEB9". (-1728)
+
+Command exited with code 1
+2026-02-15T23:08:37.535-08:00 [tools] exec failed: 153:154: syntax error: Expected end of line, etc. but found number. (-2741)
+
+Command exited with code 1
+2026-02-15T23:08:43.167-08:00 [tools] exec failed: 153:154: syntax error: Expected end of line, etc. but found number. (-2741)
+
+Command exited with code 1
+2026-02-15T23:08:51.071-08:00 [tools] exec failed: 153:154: syntax error: Expected end of line, etc. but found number. (-2741)
+
+Command exited with code 1
+2026-02-15T23:09:02.292-08:00 [tools] exec failed: /tmp/send_reply.scpt:153:154: script error: Expected end of line, etc. but found number. (-2741)
+
+Command exited with code 1
+2026-02-15T23:09:07.823-08:00 [tools] exec failed: 196:197: syntax error: Expected end of line, etc. but found number. (-2741)
+
+Command exited with code 1
+2026-02-15T23:12:06.431-08:00 [tools] nodes failed: agent=main node=Freshness's Mac mini gateway=default action=screen_record: unknown node: Freshness's Mac mini
+2026-02-15T23:12:11.512-08:00 [tools] exec failed: screencapture not found
+
+Command exited with code 1
+2026-02-15T23:13:17.420-08:00 [tools] nodes failed: agent=main node=auto gateway=default action=screen_record: node required
+2026-02-16T08:22:12.179-08:00 [tools] exec failed: 90:152: execution error: Mail got an error: Can’t set mailbox "Archive" to mailbox "Archive". (-10006)
+
+Command exited with code 1
+2026-02-16T14:41:29.644-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:41:40.260-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:41:50.770-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:42:01.283-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:42:12.291-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:45:27.620-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:45:38.230-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:45:48.742-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:45:59.255-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:46:10.268-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:51:28.273-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:51:38.896-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:51:49.406-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:51:59.921-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:52:10.933-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:57:58.818-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:58:09.437-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:58:20.158-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T14:58:31.076-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:02:56.894-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:03:07.512-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:03:18.233-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:03:29.151-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:03:40.468-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:03:52.471-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:04:06.189-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:04:23.110-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:06:47.440-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:06:57.947-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:07:08.460-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:07:19.379-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:07:30.697-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:07:42.824-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:11:46.362-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:11:56.868-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:12:07.378-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:12:18.297-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:12:29.614-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:12:41.734-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:12:55.447-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at processImmediate (node:internal/timers:453:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+2026-02-16T15:13:11.876-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:15:37.451-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:15:47.966-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:15:58.481-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:16:07.785-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:16:19.100-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:16:31.221-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T15:16:44.867-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T20:35:49.558-08:00 [tools] exec failed: zsh:1: command not found: tree
+
+Command exited with code 127
+2026-02-16T20:54:37.615-08:00 [tools] exec failed: zsh:1: command not found: system_profiler
+
+Command exited with code 1
+2026-02-16T21:15:10.093-08:00 [tools] session_status failed: Model "anthropic/claude-opus-4-5" is not allowed.
+2026-02-16T21:24:47.771-08:00 Config overwrite: /Users/ava/.openclaw/openclaw.json (sha256 4d387f69fe522aa2d4007e38eb8580ae5d9ab23a3d750c3f82ec2b22dc43b660 -> beefd3100ca981c322dca98dadeba271efb336ecc45805b6aba82b858cdb55aa, backup=/Users/ava/.openclaw/openclaw.json.bak)
+2026-02-16T21:24:58.836-08:00 [openclaw] Suppressed AbortError: AbortError: This operation was aborted
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-16T21:25:06.218-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:25:06.295-08:00 Port 18789 is already in use.
+2026-02-16T21:25:06.296-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:25:06.296-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:25:06.304-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:25:06.304-08:00 Tip: openclaw gateway stop
+2026-02-16T21:25:06.305-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:25:15.156-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:25:15.217-08:00 Port 18789 is already in use.
+2026-02-16T21:25:15.218-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:25:15.219-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:25:15.223-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:25:15.223-08:00 Tip: openclaw gateway stop
+2026-02-16T21:25:15.223-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:25:26.056-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:25:26.115-08:00 Port 18789 is already in use.
+2026-02-16T21:25:26.116-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:25:26.116-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:25:26.120-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:25:26.121-08:00 Tip: openclaw gateway stop
+2026-02-16T21:25:26.121-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:25:36.953-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:25:37.014-08:00 Port 18789 is already in use.
+2026-02-16T21:25:37.015-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:25:37.015-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:25:37.019-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:25:37.020-08:00 Tip: openclaw gateway stop
+2026-02-16T21:25:37.020-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:25:47.851-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:25:47.913-08:00 Port 18789 is already in use.
+2026-02-16T21:25:47.913-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:25:47.914-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:25:47.917-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:25:47.918-08:00 Tip: openclaw gateway stop
+2026-02-16T21:25:47.918-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:25:58.755-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:25:58.817-08:00 Port 18789 is already in use.
+2026-02-16T21:25:58.818-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:25:58.818-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:25:58.822-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:25:58.823-08:00 Tip: openclaw gateway stop
+2026-02-16T21:25:58.823-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:26:09.664-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:26:09.726-08:00 Port 18789 is already in use.
+2026-02-16T21:26:09.727-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:26:09.727-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:26:09.732-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:26:09.732-08:00 Tip: openclaw gateway stop
+2026-02-16T21:26:09.732-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:26:20.591-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:26:20.654-08:00 Port 18789 is already in use.
+2026-02-16T21:26:20.654-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:26:20.655-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:26:20.659-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:26:20.659-08:00 Tip: openclaw gateway stop
+2026-02-16T21:26:20.660-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:26:31.492-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:26:31.555-08:00 Port 18789 is already in use.
+2026-02-16T21:26:31.556-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:26:31.556-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:26:31.560-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:26:31.560-08:00 Tip: openclaw gateway stop
+2026-02-16T21:26:31.561-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:26:42.396-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:26:42.458-08:00 Port 18789 is already in use.
+2026-02-16T21:26:42.459-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:26:42.460-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:26:42.463-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:26:42.464-08:00 Tip: openclaw gateway stop
+2026-02-16T21:26:42.464-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:26:53.331-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:26:53.392-08:00 Port 18789 is already in use.
+2026-02-16T21:26:53.393-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:26:53.393-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:26:53.397-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:26:53.398-08:00 Tip: openclaw gateway stop
+2026-02-16T21:26:53.398-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:27:04.263-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:27:04.326-08:00 Port 18789 is already in use.
+2026-02-16T21:27:04.326-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:27:04.327-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:27:04.330-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:27:04.331-08:00 Tip: openclaw gateway stop
+2026-02-16T21:27:04.331-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:27:15.187-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:27:15.246-08:00 Port 18789 is already in use.
+2026-02-16T21:27:15.247-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:27:15.247-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:27:15.251-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:27:15.252-08:00 Tip: openclaw gateway stop
+2026-02-16T21:27:15.252-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:27:26.089-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:27:26.148-08:00 Port 18789 is already in use.
+2026-02-16T21:27:26.148-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:27:26.149-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:27:26.153-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:27:26.153-08:00 Tip: openclaw gateway stop
+2026-02-16T21:27:26.154-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:27:36.993-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:27:37.054-08:00 Port 18789 is already in use.
+2026-02-16T21:27:37.055-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:27:37.056-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:27:37.060-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:27:37.060-08:00 Tip: openclaw gateway stop
+2026-02-16T21:27:37.061-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:27:47.904-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:27:47.963-08:00 Port 18789 is already in use.
+2026-02-16T21:27:47.964-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:27:47.965-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:27:47.968-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:27:47.969-08:00 Tip: openclaw gateway stop
+2026-02-16T21:27:47.969-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:27:58.803-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:27:58.866-08:00 Port 18789 is already in use.
+2026-02-16T21:27:58.867-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:27:58.867-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:27:58.871-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:27:58.871-08:00 Tip: openclaw gateway stop
+2026-02-16T21:27:58.872-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:28:09.706-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:28:09.770-08:00 Port 18789 is already in use.
+2026-02-16T21:28:09.770-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:28:09.771-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:28:09.775-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:28:09.775-08:00 Tip: openclaw gateway stop
+2026-02-16T21:28:09.776-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:28:20.615-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:28:20.675-08:00 Port 18789 is already in use.
+2026-02-16T21:28:20.676-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:28:20.676-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:28:20.680-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:28:20.681-08:00 Tip: openclaw gateway stop
+2026-02-16T21:28:20.681-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:28:31.523-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:28:31.582-08:00 Port 18789 is already in use.
+2026-02-16T21:28:31.582-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:28:31.583-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:28:31.587-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:28:31.587-08:00 Tip: openclaw gateway stop
+2026-02-16T21:28:31.587-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:28:42.425-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:28:42.488-08:00 Port 18789 is already in use.
+2026-02-16T21:28:42.489-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:28:42.489-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:28:42.493-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:28:42.493-08:00 Tip: openclaw gateway stop
+2026-02-16T21:28:42.494-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:28:53.330-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:28:53.391-08:00 Port 18789 is already in use.
+2026-02-16T21:28:53.392-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:28:53.392-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:28:53.396-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:28:53.397-08:00 Tip: openclaw gateway stop
+2026-02-16T21:28:53.397-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:29:04.240-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:29:04.301-08:00 Port 18789 is already in use.
+2026-02-16T21:29:04.301-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:29:04.302-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:29:04.306-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:29:04.306-08:00 Tip: openclaw gateway stop
+2026-02-16T21:29:04.306-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:29:15.156-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:29:15.218-08:00 Port 18789 is already in use.
+2026-02-16T21:29:15.219-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:29:15.219-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:29:15.223-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:29:15.224-08:00 Tip: openclaw gateway stop
+2026-02-16T21:29:15.224-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:29:26.076-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:29:26.138-08:00 Port 18789 is already in use.
+2026-02-16T21:29:26.138-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:29:26.139-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:29:26.142-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:29:26.143-08:00 Tip: openclaw gateway stop
+2026-02-16T21:29:26.143-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:29:36.974-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:29:37.033-08:00 Port 18789 is already in use.
+2026-02-16T21:29:37.034-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:29:37.034-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:29:37.038-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:29:37.039-08:00 Tip: openclaw gateway stop
+2026-02-16T21:29:37.039-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:29:47.872-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:29:47.932-08:00 Port 18789 is already in use.
+2026-02-16T21:29:47.932-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:29:47.933-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:29:47.936-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:29:47.937-08:00 Tip: openclaw gateway stop
+2026-02-16T21:29:47.937-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:29:58.773-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:29:58.836-08:00 Port 18789 is already in use.
+2026-02-16T21:29:58.836-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:29:58.837-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:29:58.841-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:29:58.841-08:00 Tip: openclaw gateway stop
+2026-02-16T21:29:58.842-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:30:09.667-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:30:09.728-08:00 Port 18789 is already in use.
+2026-02-16T21:30:09.729-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:30:09.729-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:30:09.733-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:30:09.734-08:00 Tip: openclaw gateway stop
+2026-02-16T21:30:09.734-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:30:20.572-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:30:20.632-08:00 Port 18789 is already in use.
+2026-02-16T21:30:20.632-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:30:20.633-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:30:20.636-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:30:20.637-08:00 Tip: openclaw gateway stop
+2026-02-16T21:30:20.637-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:30:31.464-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:30:31.523-08:00 Port 18789 is already in use.
+2026-02-16T21:30:31.524-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:30:31.524-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:30:31.528-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:30:31.528-08:00 Tip: openclaw gateway stop
+2026-02-16T21:30:31.529-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:30:42.366-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:30:42.429-08:00 Port 18789 is already in use.
+2026-02-16T21:30:42.429-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:30:42.430-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:30:42.434-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:30:42.434-08:00 Tip: openclaw gateway stop
+2026-02-16T21:30:42.434-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:30:53.265-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:30:53.325-08:00 Port 18789 is already in use.
+2026-02-16T21:30:53.326-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:30:53.327-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:30:53.331-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:30:53.331-08:00 Tip: openclaw gateway stop
+2026-02-16T21:30:53.332-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:31:04.169-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:31:04.228-08:00 Port 18789 is already in use.
+2026-02-16T21:31:04.229-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:31:04.230-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:31:04.234-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:31:04.235-08:00 Tip: openclaw gateway stop
+2026-02-16T21:31:04.235-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:31:15.088-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:31:15.148-08:00 Port 18789 is already in use.
+2026-02-16T21:31:15.149-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:31:15.149-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:31:15.153-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:31:15.153-08:00 Tip: openclaw gateway stop
+2026-02-16T21:31:15.154-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:31:25.980-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:31:26.040-08:00 Port 18789 is already in use.
+2026-02-16T21:31:26.041-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:31:26.042-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:31:26.046-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:31:26.047-08:00 Tip: openclaw gateway stop
+2026-02-16T21:31:26.047-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:31:36.932-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:31:36.995-08:00 Port 18789 is already in use.
+2026-02-16T21:31:36.996-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:31:36.996-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:31:37.001-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:31:37.001-08:00 Tip: openclaw gateway stop
+2026-02-16T21:31:37.002-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:31:47.844-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:31:47.904-08:00 Port 18789 is already in use.
+2026-02-16T21:31:47.905-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:31:47.905-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:31:47.909-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:31:47.909-08:00 Tip: openclaw gateway stop
+2026-02-16T21:31:47.910-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:31:58.768-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:31:58.828-08:00 Port 18789 is already in use.
+2026-02-16T21:31:58.829-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:31:58.829-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:31:58.833-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:31:58.833-08:00 Tip: openclaw gateway stop
+2026-02-16T21:31:58.834-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:32:09.676-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:32:09.738-08:00 Port 18789 is already in use.
+2026-02-16T21:32:09.739-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:32:09.740-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:32:09.744-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:32:09.744-08:00 Tip: openclaw gateway stop
+2026-02-16T21:32:09.744-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:32:20.600-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:32:20.661-08:00 Port 18789 is already in use.
+2026-02-16T21:32:20.662-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:32:20.662-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:32:20.667-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:32:20.667-08:00 Tip: openclaw gateway stop
+2026-02-16T21:32:20.668-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:32:31.514-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:32:31.573-08:00 Port 18789 is already in use.
+2026-02-16T21:32:31.574-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:32:31.574-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:32:31.578-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:32:31.579-08:00 Tip: openclaw gateway stop
+2026-02-16T21:32:31.579-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:32:42.422-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:32:42.481-08:00 Port 18789 is already in use.
+2026-02-16T21:32:42.482-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:32:42.482-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:32:42.486-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:32:42.487-08:00 Tip: openclaw gateway stop
+2026-02-16T21:32:42.487-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:32:53.333-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:32:53.393-08:00 Port 18789 is already in use.
+2026-02-16T21:32:53.394-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:32:53.394-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:32:53.398-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:32:53.399-08:00 Tip: openclaw gateway stop
+2026-02-16T21:32:53.399-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:33:04.244-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:33:04.304-08:00 Port 18789 is already in use.
+2026-02-16T21:33:04.305-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:33:04.306-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:33:04.310-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:33:04.310-08:00 Tip: openclaw gateway stop
+2026-02-16T21:33:04.310-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:33:15.150-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:33:15.212-08:00 Port 18789 is already in use.
+2026-02-16T21:33:15.213-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:33:15.213-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:33:15.217-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:33:15.218-08:00 Tip: openclaw gateway stop
+2026-02-16T21:33:15.218-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:33:26.068-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:33:26.129-08:00 Port 18789 is already in use.
+2026-02-16T21:33:26.130-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:33:26.130-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:33:26.134-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:33:26.135-08:00 Tip: openclaw gateway stop
+2026-02-16T21:33:26.135-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:33:36.985-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:33:37.048-08:00 Port 18789 is already in use.
+2026-02-16T21:33:37.049-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:33:37.050-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:33:37.054-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:33:37.054-08:00 Tip: openclaw gateway stop
+2026-02-16T21:33:37.055-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:33:47.909-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:33:47.971-08:00 Port 18789 is already in use.
+2026-02-16T21:33:47.972-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:33:47.972-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:33:47.976-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:33:47.977-08:00 Tip: openclaw gateway stop
+2026-02-16T21:33:47.977-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:33:58.818-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:33:58.879-08:00 Port 18789 is already in use.
+2026-02-16T21:33:58.880-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:33:58.880-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:33:58.884-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:33:58.884-08:00 Tip: openclaw gateway stop
+2026-02-16T21:33:58.885-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:34:09.723-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:34:09.784-08:00 Port 18789 is already in use.
+2026-02-16T21:34:09.785-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:34:09.786-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:34:09.791-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:34:09.791-08:00 Tip: openclaw gateway stop
+2026-02-16T21:34:09.792-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:34:20.653-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:34:20.713-08:00 Port 18789 is already in use.
+2026-02-16T21:34:20.714-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:34:20.714-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:34:20.718-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:34:20.719-08:00 Tip: openclaw gateway stop
+2026-02-16T21:34:20.719-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:34:31.558-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:34:31.620-08:00 Port 18789 is already in use.
+2026-02-16T21:34:31.621-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:34:31.621-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:34:31.625-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:34:31.626-08:00 Tip: openclaw gateway stop
+2026-02-16T21:34:31.626-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:34:42.462-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:34:42.513-08:00 Port 18789 is already in use.
+2026-02-16T21:34:42.513-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:34:42.514-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:34:42.517-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:34:42.518-08:00 Tip: openclaw gateway stop
+2026-02-16T21:34:42.518-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:34:53.347-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:34:53.407-08:00 Port 18789 is already in use.
+2026-02-16T21:34:53.408-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:34:53.408-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:34:53.412-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:34:53.412-08:00 Tip: openclaw gateway stop
+2026-02-16T21:34:53.413-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:35:04.260-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:35:04.321-08:00 Port 18789 is already in use.
+2026-02-16T21:35:04.322-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:35:04.322-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:35:04.326-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:35:04.327-08:00 Tip: openclaw gateway stop
+2026-02-16T21:35:04.327-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:35:15.167-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:35:15.227-08:00 Port 18789 is already in use.
+2026-02-16T21:35:15.228-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:35:15.228-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:35:15.232-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:35:15.232-08:00 Tip: openclaw gateway stop
+2026-02-16T21:35:15.233-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:35:26.076-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:35:26.137-08:00 Port 18789 is already in use.
+2026-02-16T21:35:26.138-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:35:26.138-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:35:26.142-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:35:26.142-08:00 Tip: openclaw gateway stop
+2026-02-16T21:35:26.143-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:35:36.996-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:35:37.058-08:00 Port 18789 is already in use.
+2026-02-16T21:35:37.059-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:35:37.059-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:35:37.063-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:35:37.063-08:00 Tip: openclaw gateway stop
+2026-02-16T21:35:37.064-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:35:47.914-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:35:47.973-08:00 Port 18789 is already in use.
+2026-02-16T21:35:47.974-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:35:47.974-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:35:47.978-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:35:47.979-08:00 Tip: openclaw gateway stop
+2026-02-16T21:35:47.979-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:35:56.825-08:00 [tools] exec failed: fatal: could not read Username for 'https://github.com': Device not configured
+
+Command exited with code 128
+2026-02-16T21:35:58.824-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:35:58.884-08:00 Port 18789 is already in use.
+2026-02-16T21:35:58.885-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:35:58.885-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:35:58.889-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:35:58.890-08:00 Tip: openclaw gateway stop
+2026-02-16T21:35:58.890-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:36:00.865-08:00 [tools] exec failed: Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Command exited with code 128
+2026-02-16T21:36:09.730-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:36:09.792-08:00 Port 18789 is already in use.
+2026-02-16T21:36:09.793-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:36:09.793-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:36:09.797-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:36:09.798-08:00 Tip: openclaw gateway stop
+2026-02-16T21:36:09.798-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:36:20.625-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:36:20.685-08:00 Port 18789 is already in use.
+2026-02-16T21:36:20.686-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:36:20.687-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:36:20.691-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:36:20.691-08:00 Tip: openclaw gateway stop
+2026-02-16T21:36:20.691-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:36:31.536-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:36:31.597-08:00 Port 18789 is already in use.
+2026-02-16T21:36:31.598-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:36:31.598-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:36:31.602-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:36:31.602-08:00 Tip: openclaw gateway stop
+2026-02-16T21:36:31.603-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:36:42.450-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:36:42.511-08:00 Port 18789 is already in use.
+2026-02-16T21:36:42.511-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:36:42.512-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:36:42.516-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:36:42.516-08:00 Tip: openclaw gateway stop
+2026-02-16T21:36:42.516-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:36:53.361-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:36:53.423-08:00 Port 18789 is already in use.
+2026-02-16T21:36:53.424-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:36:53.424-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:36:53.428-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:36:53.429-08:00 Tip: openclaw gateway stop
+2026-02-16T21:36:53.429-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:37:04.286-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:37:04.347-08:00 Port 18789 is already in use.
+2026-02-16T21:37:04.347-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:37:04.348-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:37:04.351-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:37:04.352-08:00 Tip: openclaw gateway stop
+2026-02-16T21:37:04.352-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:37:15.198-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:37:15.260-08:00 Port 18789 is already in use.
+2026-02-16T21:37:15.261-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:37:15.261-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:37:15.266-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:37:15.266-08:00 Tip: openclaw gateway stop
+2026-02-16T21:37:15.267-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:37:26.119-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:37:26.180-08:00 Port 18789 is already in use.
+2026-02-16T21:37:26.181-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:37:26.181-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:37:26.185-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:37:26.186-08:00 Tip: openclaw gateway stop
+2026-02-16T21:37:26.186-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:37:37.031-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:37:37.094-08:00 Port 18789 is already in use.
+2026-02-16T21:37:37.094-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:37:37.095-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:37:37.099-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:37:37.099-08:00 Tip: openclaw gateway stop
+2026-02-16T21:37:37.100-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:37:47.943-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:37:48.003-08:00 Port 18789 is already in use.
+2026-02-16T21:37:48.003-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:37:48.004-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:37:48.008-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:37:48.008-08:00 Tip: openclaw gateway stop
+2026-02-16T21:37:48.008-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:37:58.846-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:37:58.906-08:00 Port 18789 is already in use.
+2026-02-16T21:37:58.907-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:37:58.907-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:37:58.911-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:37:58.912-08:00 Tip: openclaw gateway stop
+2026-02-16T21:37:58.912-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:38:09.740-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:38:09.803-08:00 Port 18789 is already in use.
+2026-02-16T21:38:09.804-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:38:09.804-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:38:09.808-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:38:09.808-08:00 Tip: openclaw gateway stop
+2026-02-16T21:38:09.809-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:38:20.642-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:38:20.703-08:00 Port 18789 is already in use.
+2026-02-16T21:38:20.703-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:38:20.704-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:38:20.708-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:38:20.708-08:00 Tip: openclaw gateway stop
+2026-02-16T21:38:20.709-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:38:31.556-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:38:31.616-08:00 Port 18789 is already in use.
+2026-02-16T21:38:31.617-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:38:31.618-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:38:31.621-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:38:31.622-08:00 Tip: openclaw gateway stop
+2026-02-16T21:38:31.622-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:38:42.460-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:38:42.520-08:00 Port 18789 is already in use.
+2026-02-16T21:38:42.520-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:38:42.521-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:38:42.525-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:38:42.525-08:00 Tip: openclaw gateway stop
+2026-02-16T21:38:42.526-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:38:53.365-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:38:53.425-08:00 Port 18789 is already in use.
+2026-02-16T21:38:53.425-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:38:53.426-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:38:53.430-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:38:53.430-08:00 Tip: openclaw gateway stop
+2026-02-16T21:38:53.431-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:39:04.237-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:39:04.297-08:00 Port 18789 is already in use.
+2026-02-16T21:39:04.297-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:39:04.298-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:39:04.302-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:39:04.303-08:00 Tip: openclaw gateway stop
+2026-02-16T21:39:04.303-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:39:15.160-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:39:15.220-08:00 Port 18789 is already in use.
+2026-02-16T21:39:15.220-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:39:15.221-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:39:15.224-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:39:15.225-08:00 Tip: openclaw gateway stop
+2026-02-16T21:39:15.225-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:39:26.072-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:39:26.135-08:00 Port 18789 is already in use.
+2026-02-16T21:39:26.136-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:39:26.136-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:39:26.140-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:39:26.141-08:00 Tip: openclaw gateway stop
+2026-02-16T21:39:26.141-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:39:36.999-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:39:37.059-08:00 Port 18789 is already in use.
+2026-02-16T21:39:37.059-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:39:37.060-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:39:37.064-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:39:37.064-08:00 Tip: openclaw gateway stop
+2026-02-16T21:39:37.064-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:39:47.899-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:39:47.962-08:00 Port 18789 is already in use.
+2026-02-16T21:39:47.962-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:39:47.963-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:39:47.966-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:39:47.967-08:00 Tip: openclaw gateway stop
+2026-02-16T21:39:47.967-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:39:58.800-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:39:58.862-08:00 Port 18789 is already in use.
+2026-02-16T21:39:58.863-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:39:58.863-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:39:58.867-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:39:58.868-08:00 Tip: openclaw gateway stop
+2026-02-16T21:39:58.868-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:40:09.704-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:40:09.767-08:00 Port 18789 is already in use.
+2026-02-16T21:40:09.768-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:40:09.768-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:40:09.772-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:40:09.772-08:00 Tip: openclaw gateway stop
+2026-02-16T21:40:09.773-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:40:20.612-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:40:20.671-08:00 Port 18789 is already in use.
+2026-02-16T21:40:20.672-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:40:20.672-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:40:20.676-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:40:20.677-08:00 Tip: openclaw gateway stop
+2026-02-16T21:40:20.677-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:40:31.521-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:40:31.580-08:00 Port 18789 is already in use.
+2026-02-16T21:40:31.581-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:40:31.581-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:40:31.585-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:40:31.586-08:00 Tip: openclaw gateway stop
+2026-02-16T21:40:31.586-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:40:42.425-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:40:42.486-08:00 Port 18789 is already in use.
+2026-02-16T21:40:42.487-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:40:42.487-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:40:42.491-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:40:42.492-08:00 Tip: openclaw gateway stop
+2026-02-16T21:40:42.492-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:40:53.333-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:40:53.392-08:00 Port 18789 is already in use.
+2026-02-16T21:40:53.393-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:40:53.393-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:40:53.397-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:40:53.398-08:00 Tip: openclaw gateway stop
+2026-02-16T21:40:53.398-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:41:04.234-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:41:04.295-08:00 Port 18789 is already in use.
+2026-02-16T21:41:04.296-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:41:04.296-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:41:04.300-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:41:04.301-08:00 Tip: openclaw gateway stop
+2026-02-16T21:41:04.301-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:41:15.130-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:41:15.191-08:00 Port 18789 is already in use.
+2026-02-16T21:41:15.192-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:41:15.192-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:41:15.196-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:41:15.197-08:00 Tip: openclaw gateway stop
+2026-02-16T21:41:15.197-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway
+2026-02-16T21:41:26.034-08:00 Gateway failed to start: gateway already running (pid 21382); lock timeout after 5000ms
+If the gateway is supervised, stop it with: openclaw gateway stop
+2026-02-16T21:41:26.094-08:00 Port 18789 is already in use.
+2026-02-16T21:41:26.095-08:00 - pid 21382 ava: openclaw-gateway (127.0.0.1:18789)
+2026-02-16T21:41:26.095-08:00 - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+2026-02-16T21:41:26.099-08:00 Gateway service appears loaded. Stop it first.
+2026-02-16T21:41:26.100-08:00 Tip: openclaw gateway stop
+2026-02-16T21:41:26.100-08:00 Or: launchctl bootout gui/$UID/ai.openclaw.gateway

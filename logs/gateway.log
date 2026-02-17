@@ -1,0 +1,87 @@
+2026-02-16T04:58:49.391Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/ava/.openclaw/canvas)
+2026-02-16T04:58:49.416Z [heartbeat] started
+2026-02-16T04:58:49.418Z [gateway] agent model: anthropic/claude-sonnet-4-5
+2026-02-16T04:58:49.419Z [gateway] listening on ws://127.0.0.1:18789 (PID 8731)
+2026-02-16T04:58:49.419Z [gateway] listening on ws://[::1]:18789
+2026-02-16T04:58:49.419Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-15.log
+2026-02-16T04:58:49.427Z [browser/service] Browser control service ready (profiles=2)
+2026-02-16T04:58:49.545Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-16T04:58:49.546Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-16T04:58:49.547Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-16T04:58:49.549Z [hooks:loader] Registered hook: session-memory -> command:new
+2026-02-16T04:58:49.550Z [hooks] loaded 4 internal hook handlers
+2026-02-16T04:58:51.350Z [gateway] device pairing auto-approved device=2c943cfa987d88fbe34cfb2fcea55b1de1473f9233088ebb42212e984e20f8a8 role=operator
+2026-02-16T04:58:51.496Z [ws] ⇄ res ✓ health 139ms conn=8c613d11…60cb id=d122152f…7da8
+2026-02-16T04:58:51.499Z [telegram] [default] starting provider
+2026-02-16T04:58:51.505Z [telegram] autoSelectFamily=false (default-node22)
+2026-02-16T05:01:24.834Z [ws] ⇄ res ✓ config.get 88ms conn=ab5295f7…73c7 id=53737e7c…3122
+2026-02-16T05:05:24.412Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.contextPruning, agents.defaults.heartbeat, channels.telegram.botToken)
+2026-02-16T05:05:24.415Z [gateway/channels] restarting telegram channel
+2026-02-16T05:05:24.419Z [reload] config hot reload applied (agents.defaults.heartbeat, channels.telegram.botToken)
+2026-02-16T05:05:26.091Z [telegram] [default] starting provider (@openclaw_avabot)
+2026-02-16T05:05:32.312Z [gateway] signal SIGTERM received
+2026-02-16T05:05:32.314Z [gateway] received SIGTERM; shutting down
+2026-02-16T05:05:32.333Z [gmail-watcher] gmail watcher stopped
+2026-02-16T05:05:33.703Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/ava/.openclaw/canvas)
+2026-02-16T05:05:33.724Z [heartbeat] started
+2026-02-16T05:05:33.726Z [gateway] agent model: anthropic/claude-sonnet-4-5
+2026-02-16T05:05:33.726Z [gateway] listening on ws://127.0.0.1:18789 (PID 8857)
+2026-02-16T05:05:33.726Z [gateway] listening on ws://[::1]:18789
+2026-02-16T05:05:33.727Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-15.log
+2026-02-16T05:05:33.735Z [browser/service] Browser control service ready (profiles=2)
+2026-02-16T05:05:33.840Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-16T05:05:33.841Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-16T05:05:33.841Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-16T05:05:33.844Z [hooks:loader] Registered hook: session-memory -> command:new
+2026-02-16T05:05:33.844Z [hooks] loaded 4 internal hook handlers
+2026-02-16T05:05:34.818Z [telegram] [default] starting provider (@openclaw_avabot)
+2026-02-16T05:05:34.824Z [telegram] autoSelectFamily=false (default-node22)
+2026-02-16T05:15:00.801Z [browser/chrome] 🦞 openclaw browser profile decorated (#FF4500)
+2026-02-16T05:15:01.141Z [browser/chrome] 🦞 openclaw browser started (chrome) profile "openclaw" on 127.0.0.1:18800 (pid 8987)
+2026-02-16T05:43:06.503Z [gateway] signal SIGTERM received
+2026-02-16T05:43:06.504Z [gateway] received SIGTERM; shutting down
+2026-02-16T05:43:06.522Z [gmail-watcher] gmail watcher stopped
+2026-02-16T05:43:07.806Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/ava/.openclaw/canvas)
+2026-02-16T05:43:07.835Z [heartbeat] started
+2026-02-16T05:43:07.837Z [gateway] agent model: anthropic/claude-sonnet-4-5
+2026-02-16T05:43:07.837Z [gateway] listening on ws://127.0.0.1:18789 (PID 9372)
+2026-02-16T05:43:07.838Z [gateway] listening on ws://[::1]:18789
+2026-02-16T05:43:07.838Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-15.log
+2026-02-16T05:43:07.847Z [browser/service] Browser control service ready (profiles=2)
+2026-02-16T05:43:07.966Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-16T05:43:07.967Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-16T05:43:07.968Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-16T05:43:07.971Z [hooks:loader] Registered hook: session-memory -> command:new
+2026-02-16T05:43:07.971Z [hooks] loaded 4 internal hook handlers
+2026-02-16T05:43:08.956Z [telegram] [default] starting provider (@openclaw_avabot)
+2026-02-16T05:43:08.966Z [telegram] autoSelectFamily=false (default-node22)
+2026-02-16T05:43:20.739Z [ws] ⇄ res ✓ config.get 95ms conn=684daab2…4857 id=8c678eec…53d7
+2026-02-16T05:43:20.740Z [ws] ⇄ res ✓ status 97ms conn=684daab2…4857 id=91a825e1…b30f
+2026-02-16T05:51:55.318Z [browser/chrome] 🦞 openclaw browser started (chrome) profile "openclaw" on 127.0.0.1:18800 (pid 9703)
+2026-02-16T05:53:29.577Z [gateway] device pairing auto-approved device=f337af485c786f62f2be2fbae873b486677717fae14323be1254e1ce17b098bf role=operator
+2026-02-16T05:53:29.577Z [ws] webchat connected conn=b0733cc2-0129-4bf3-9e92-b9582b1dbf39 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-16T06:12:28.004Z [ws] ⇄ res ✓ chat.history 50ms conn=b0733cc2…bf39 id=a87f008a…6286
+2026-02-16T06:22:46.151Z [ws] webchat disconnected code=1006 reason=n/a conn=b0733cc2-0129-4bf3-9e92-b9582b1dbf39
+2026-02-16T06:22:47.684Z [ws] webchat connected conn=014b59cb-d0dc-4385-a102-47f7e03a6e45 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-16T07:13:31.295Z [ws] webchat disconnected code=1001 reason=n/a conn=014b59cb-d0dc-4385-a102-47f7e03a6e45
+2026-02-16T07:17:49.580Z [browser/chrome] 🦞 openclaw browser started (chrome) profile "openclaw" on 127.0.0.1:18800 (pid 10586)
+2026-02-17T05:24:48.302Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.primary, agents.defaults.models.anthropic/claude-opus-4-5, agents.defaults.contextPruning, agents.defaults.heartbeat)
+2026-02-17T05:24:48.303Z [reload] config hot reload applied (agents.defaults.heartbeat)
+2026-02-17T05:24:58.809Z [gateway] signal SIGUSR1 received
+2026-02-17T05:24:58.811Z [gateway] received SIGUSR1; restarting
+2026-02-17T05:24:58.825Z [gmail-watcher] gmail watcher stopped
+2026-02-17T05:24:58.870Z [gateway] restart mode: full process restart (spawned pid 21382)
+2026-02-17T05:25:01.869Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/ava/.openclaw/canvas)
+2026-02-17T05:25:01.901Z [heartbeat] started
+2026-02-17T05:25:01.903Z [gateway] agent model: anthropic/claude-opus-4-5
+2026-02-17T05:25:01.904Z [gateway] listening on ws://127.0.0.1:18789 (PID 21382)
+2026-02-17T05:25:01.904Z [gateway] listening on ws://[::1]:18789
+2026-02-17T05:25:01.904Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-16.log
+2026-02-17T05:25:01.913Z [browser/service] Browser control service ready (profiles=2)
+2026-02-17T05:25:02.033Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-17T05:25:02.035Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-17T05:25:02.036Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-17T05:25:02.038Z [hooks:loader] Registered hook: session-memory -> command:new
+2026-02-17T05:25:02.039Z [hooks] loaded 4 internal hook handlers
+2026-02-17T05:25:02.822Z [telegram] autoSelectFamily=false (default-node22)
+2026-02-17T05:25:03.000Z [telegram] [default] starting provider (@openclaw_avabot)
