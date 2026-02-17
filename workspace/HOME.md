@@ -61,6 +61,7 @@ Comprehensive documentation for the OpenClaw system.
 |------|---------|
 | [[TOOLS]] | Local notes (cameras, SSH, voices, device names) |
 | [[HEARTBEAT]] | Periodic check tasks (currently empty) |
+| [[todo/today]] | Today's to-do list (updated throughout the day) |
 
 ---
 

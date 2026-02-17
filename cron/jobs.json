@@ -1,4 +1,28 @@
 {
   "version": 1,
-  "jobs": []
+  "jobs": [
+    {
+      "id": "9db4a706-0fcb-4629-8662-0a0d41dd1996",
+      "agentId": "main",
+      "name": "End of Day To-Do Check",
+      "enabled": true,
+      "notify": true,
+      "createdAtMs": 1771307447841,
+      "updatedAtMs": 1771307447841,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 23 * * *",
+        "tz": "America/Los_Angeles"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Check today's to-do list at todo/$(date +%Y-%m-%d).md. Count incomplete tasks (lines with [ ]). If any incomplete: send message listing them and ask: 'X tasks incomplete for today. Which ones should I move to tomorrow?' Wait for response before moving anything."
+      },
+      "state": {
+        "nextRunAtMs": 1771311600000
+      }
+    }
+  ]
 }
