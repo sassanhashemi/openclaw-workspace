@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
-    "updatedAt": 1771368277934,
+    "updatedAt": 1771368291840,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -88,14 +88,14 @@
     "authProfileOverride": "anthropic:claude_setup_token",
     "authProfileOverrideSource": "auto",
     "authProfileOverrideCompactionCount": 4,
-    "totalTokens": 180213,
+    "totalTokens": 20290,
     "totalTokensFresh": true,
     "modelProvider": "anthropic",
     "model": "claude-sonnet-4-5",
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1771368116897,
+      "generatedAt": 1771368277942,
       "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
       "sessionKey": "agent:main:main",
       "provider": "anthropic",
@@ -358,6 +358,8 @@
     "memoryFlushAt": 1771368277934,
     "memoryFlushCompactionCount": 5,
     "lastHeartbeatText": "No to-do list existed for today (Feb 16), so nothing to check. \n\nYour first to-do list starts tomorrow (Feb 17) with 9 tasks. I'll check again tomorrow night at 11 PM for any incomplete items.",
-    "lastHeartbeatSentAt": 1771311600020
+    "lastHeartbeatSentAt": 1771311600020,
+    "inputTokens": 47,
+    "outputTokens": 440
   }
 }
