@@ -88,3 +88,21 @@
 2026-02-17T05:44:55.035Z [ws] ⇄ res ✓ config.get 85ms conn=1a700fb6…354f id=08b61815…c2db
 2026-02-17T05:44:55.573Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.primary, agents.defaults.contextPruning, agents.defaults.heartbeat)
 2026-02-17T05:44:55.575Z [reload] config hot reload applied (agents.defaults.heartbeat)
+2026-02-17T05:45:02.072Z [gateway] signal SIGUSR1 received
+2026-02-17T05:45:02.074Z [gateway] received SIGUSR1; restarting
+2026-02-17T05:45:02.088Z [gmail-watcher] gmail watcher stopped
+2026-02-17T05:45:02.286Z [gateway] restart mode: full process restart (spawned pid 25680)
+2026-02-17T05:45:02.823Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/ava/.openclaw/canvas)
+2026-02-17T05:45:02.846Z [heartbeat] started
+2026-02-17T05:45:02.848Z [gateway] agent model: anthropic/claude-sonnet-4-5
+2026-02-17T05:45:02.848Z [gateway] listening on ws://127.0.0.1:18789 (PID 25654)
+2026-02-17T05:45:02.849Z [gateway] listening on ws://[::1]:18789
+2026-02-17T05:45:02.849Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-16.log
+2026-02-17T05:45:02.858Z [browser/service] Browser control service ready (profiles=2)
+2026-02-17T05:45:02.981Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-17T05:45:02.983Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-17T05:45:02.984Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-17T05:45:02.987Z [hooks:loader] Registered hook: session-memory -> command:new
+2026-02-17T05:45:02.987Z [hooks] loaded 4 internal hook handlers
+2026-02-17T05:45:03.767Z [telegram] autoSelectFamily=false (default-node22)
+2026-02-17T05:45:03.951Z [telegram] [default] starting provider (@openclaw_avabot)
