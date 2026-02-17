@@ -8,10 +8,10 @@
       "enabled": true,
       "notify": true,
       "createdAtMs": 1771307447841,
-      "updatedAtMs": 1771311615579,
+      "updatedAtMs": 1771311679986,
       "schedule": {
         "kind": "cron",
-        "expr": "0 23 * * *",
+        "expr": "0 20 * * *",
         "tz": "America/Los_Angeles"
       },
       "sessionTarget": "main",
@@ -21,7 +21,7 @@
         "text": "Check today's to-do list at todo/$(date +%Y-%m-%d).md. Count incomplete tasks (lines with [ ]). If any incomplete: send message listing them and ask: 'X tasks incomplete for today. Which ones should I move to tomorrow?' Wait for response before moving anything."
       },
       "state": {
-        "nextRunAtMs": 1771398000000,
+        "nextRunAtMs": 1771387200000,
         "lastRunAtMs": 1771311600005,
         "lastStatus": "ok",
         "lastDurationMs": 15574,
