@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
-    "updatedAt": 1771307414361,
+    "updatedAt": 1771307463688,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -88,18 +88,18 @@
     "authProfileOverride": "anthropic:claude_setup_token",
     "authProfileOverrideSource": "auto",
     "authProfileOverrideCompactionCount": 3,
-    "totalTokens": 161296,
+    "totalTokens": 157536,
     "totalTokensFresh": true,
     "modelProvider": "anthropic",
-    "model": "claude-opus-4-5",
+    "model": "claude-sonnet-4-5",
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1771307086534,
+      "generatedAt": 1771307414750,
       "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
       "sessionKey": "agent:main:main",
       "provider": "anthropic",
-      "model": "claude-opus-4-5",
+      "model": "claude-sonnet-4-5",
       "workspaceDir": "/Users/ava/.openclaw/workspace",
       "bootstrapMaxChars": 20000,
       "sandbox": {
@@ -107,9 +107,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 29648,
+        "chars": 29652,
         "projectContextChars": 17344,
-        "nonProjectContextChars": 12304
+        "nonProjectContextChars": 12308
       },
       "injectedWorkspaceFiles": [
         {
@@ -357,7 +357,7 @@
     "lastAccountId": "default",
     "memoryFlushAt": 1771222118655,
     "memoryFlushCompactionCount": 2,
-    "inputTokens": 18,
-    "outputTokens": 257
+    "inputTokens": 50,
+    "outputTokens": 1948
   }
 }
