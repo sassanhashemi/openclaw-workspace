@@ -1308,3 +1308,4 @@ Command exited with code 127
 2026-02-17T10:00:42.719-08:00 [tools] exec failed: 160:170: execution error: Mail got an error: AppleEvent handler failed. (-10000)
 
 Command exited with code 1
+2026-02-17T10:52:19.399-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: tab not found)
