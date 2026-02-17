@@ -85,3 +85,6 @@
 2026-02-17T05:25:02.039Z [hooks] loaded 4 internal hook handlers
 2026-02-17T05:25:02.822Z [telegram] autoSelectFamily=false (default-node22)
 2026-02-17T05:25:03.000Z [telegram] [default] starting provider (@openclaw_avabot)
+2026-02-17T05:44:55.035Z [ws] ⇄ res ✓ config.get 85ms conn=1a700fb6…354f id=08b61815…c2db
+2026-02-17T05:44:55.573Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.primary, agents.defaults.contextPruning, agents.defaults.heartbeat)
+2026-02-17T05:44:55.575Z [reload] config hot reload applied (agents.defaults.heartbeat)
