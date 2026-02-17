@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
-    "updatedAt": 1771311614945,
+    "updatedAt": 1771311666010,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -12,8 +12,8 @@
     },
     "lastChannel": "telegram",
     "origin": {
-      "label": "telegram:1989630182",
-      "provider": "cron-event",
+      "label": "Sassan (@sassan1354) id:1989630182",
+      "provider": "telegram",
       "surface": "telegram",
       "chatType": "direct",
       "from": "telegram:1989630182",
@@ -358,6 +358,8 @@
     "memoryFlushAt": 1771222118655,
     "memoryFlushCompactionCount": 2,
     "inputTokens": 22,
-    "outputTokens": 292
+    "outputTokens": 292,
+    "lastHeartbeatText": "No to-do list existed for today (Feb 16), so nothing to check. \n\nYour first to-do list starts tomorrow (Feb 17) with 9 tasks. I'll check again tomorrow night at 11 PM for any incomplete items.",
+    "lastHeartbeatSentAt": 1771311600020
   }
 }
