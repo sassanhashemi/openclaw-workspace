@@ -16,6 +16,14 @@
 **Prevention:** Before showing any output, ask: "Is this a technical error or a human-readable explanation?"
 **Status:** ✅ Corrected
 
+### 2026-02-16: Showed AppleScript Error (Third Occurrence)
+**What Happened:** Displayed raw AppleScript error ("execution error: Mail got an error: Can't make missing value into type specifier") while checking for SimpleLogin email
+**Impact:** User had to correct me for the third time on the same issue
+**Root Cause:** Not internalizing the troubleshooting protocol - still showing raw errors when commands fail
+**Fix:** Try alternative approaches silently, only report the final result
+**Prevention:** **NEVER show error output.** Try A, try B, try C silently. Only report success or clean explanation of what's needed
+**Status:** ⚠️ Critical - this keeps happening, must fix permanently
+
 ---
 
 ## Overview
