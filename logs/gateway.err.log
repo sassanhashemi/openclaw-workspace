@@ -1302,3 +1302,6 @@ If the gateway is supervised, stop it with: openclaw gateway stop
 2026-02-17T09:55:02.599-08:00 [tools] exec failed: 263:701: execution error: Mail got an error: Can’t make missing value into type specifier. (-1700)
 
 Command exited with code 1
+2026-02-17T09:57:04.293-08:00 [tools] exec failed: zsh:7: command not found: screencapture
+
+Command exited with code 127
