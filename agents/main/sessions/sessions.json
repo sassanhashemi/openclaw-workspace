@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
-    "updatedAt": 1771311666010,
+    "updatedAt": 1771311686258,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -88,14 +88,14 @@
     "authProfileOverride": "anthropic:claude_setup_token",
     "authProfileOverrideSource": "auto",
     "authProfileOverrideCompactionCount": 3,
-    "totalTokens": 159000,
+    "totalTokens": 160159,
     "totalTokensFresh": true,
     "modelProvider": "anthropic",
     "model": "claude-sonnet-4-5",
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1771311600068,
+      "generatedAt": 1771311666365,
       "sessionId": "32592d7c-9e79-4e3c-a170-0f4a4f3a735c",
       "sessionKey": "agent:main:main",
       "provider": "anthropic",
@@ -107,9 +107,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 29259,
+        "chars": 29652,
         "projectContextChars": 17344,
-        "nonProjectContextChars": 11915
+        "nonProjectContextChars": 12308
       },
       "injectedWorkspaceFiles": [
         {
@@ -262,7 +262,7 @@
           },
           {
             "name": "message",
-            "summaryChars": 110,
+            "summaryChars": 118,
             "schemaChars": 7035,
             "propertiesCount": 85
           },
@@ -357,8 +357,8 @@
     "lastAccountId": "default",
     "memoryFlushAt": 1771222118655,
     "memoryFlushCompactionCount": 2,
-    "inputTokens": 22,
-    "outputTokens": 292,
+    "inputTokens": 33,
+    "outputTokens": 461,
     "lastHeartbeatText": "No to-do list existed for today (Feb 16), so nothing to check. \n\nYour first to-do list starts tomorrow (Feb 17) with 9 tasks. I'll check again tomorrow night at 11 PM for any incomplete items.",
     "lastHeartbeatSentAt": 1771311600020
   }
