@@ -1349,3 +1349,15 @@ ModuleNotFoundError: No module named 'Quartz'
 
 Command exited with code 1
 2026-02-17T21:25:06.277-08:00 [tools] read failed: ENOENT: no such file or directory, access '/Users/ava/.openclaw/workspace/todo/2026-02-18.md'
+2026-02-18T13:53:47.064-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-18T13:53:57.676-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-18T13:54:08.389-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-18T13:54:18.894-08:00 [openclaw] Non-fatal unhandled rejection (continuing): TypeError: fetch failed
+    at node:internal/deps/undici/undici:14902:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
