@@ -20,6 +20,21 @@ _Created: 2026-02-15_
   - Operating as "Ava" with 🦾 emoji
 
 - **2026-02-16:** Complete OpenClaw operational system documentation received
+
+- **2026-02-17:** Email configuration completed
+  - **Primary email:** ava@sassan.ai (Microsoft 365)
+  - **Default sending address:** Always use ava@sassan.ai for outbound emails
+  - **Credentials:** Stored in `.credentials/email-ava-sassan-ai.txt`
+  - **Sending method:** Browser automation via Outlook web interface
+  - **Email skill:** Created `email-send` skill for repeatable email sending
+  - **Note:** SMTP authentication disabled for tenant; must use web interface
+  
+  **Git Repository Configuration:**
+  - Location: /Users/ava/.openclaw/ (entire directory)
+  - GitHub: github.com/sassanhashemi/openclaw-workspace
+  - Auto-push: Enabled via fswatch + launchd
+  - **Push frequency:** Maximum once every 4 hours (throttled to reduce commit noise)
+  - Excluded: credentials/, tokens, browser data, telegram/, media/
   
   **Core Config Files (HIGHEST PRIORITY - read these first):**
   - **`DECISION-FRAMEWORK.md`:** Complete decision authority matrix - what I can do autonomously vs. what requires approval
@@ -64,6 +79,7 @@ _Track what I've been explicitly authorized to do as permissions expand_
 
 ### Communication (per DECISION-FRAMEWORK.md)
 - **Email to sassan@gmail.com:** Can send freely (no approval needed for updates, reports, questions)
+- **Sending address:** Always use ava@sassan.ai for all outbound emails (one-off or cron)
 - **Customer communication:** Requires template approval first, then autonomous with approved templates
 - **Bulk outreach:** Requires both approved list + approved template
 

@@ -1310,3 +1310,41 @@ Command exited with code 127
 Command exited with code 1
 2026-02-17T10:52:19.399-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: tab not found)
 2026-02-17T10:55:30.033-08:00 [tools] read failed: ENOENT: no such file or directory, access '/Users/ava/.openclaw/workspace/memory/2026-02-17.md'
+2026-02-17T15:08:10.218-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Chrome extension relay is running, but no tab is connected. Click the OpenClaw Chrome extension icon on a tab to attach it (profile "chrome").)
+2026-02-17T15:08:23.444-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: Error: Chrome extension relay is running, but no tab is connected. Click the OpenClaw Chrome extension icon on a tab to attach it (profile "chrome").)
+2026-02-17T15:13:28.291-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: ref is required)
+2026-02-17T15:13:46.598-08:00 [tools] browser failed: Can't reach the OpenClaw browser control service. Restart the OpenClaw gateway (OpenClaw.app menubar, or `openclaw gateway`). Do NOT retry the browser tool — it will keep failing. Use an alternative approach or inform the user that the browser is currently unavailable. (Error: key is required)
+2026-02-17T15:15:43.449-08:00 [tools] exec failed: zsh:25: unmatched "
+
+Command exited with code 1
+2026-02-17T15:15:55.619-08:00 [tools] exec failed: /tmp/send-email.scpt:43:103: execution error: Mail got an error: Can’t get account 1 whose email addresses contains "ava@sassan.ai". Invalid index. (-1719)
+
+Command exited with code 1
+2026-02-17T15:16:09.615-08:00 [tools] exec failed: sendmail not found
+
+Command exited with code 1
+2026-02-17T15:19:46.985-08:00 [tools] exec failed: Traceback (most recent call last):
+  File "/opt/homebrew/lib/node_modules/openclaw/skills/skill-creator/scripts/package_skill.py", line 17, in <module>
+    from quick_validate import validate_skill
+  File "/opt/homebrew/lib/node_modules/openclaw/skills/skill-creator/scripts/quick_validate.py", line 10, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'
+
+Command exited with code 1
+2026-02-17T15:27:48.495-08:00 [tools] exec failed: zsh:1: command not found: screencapture
+
+Command exited with code 127
+2026-02-17T15:28:46.221-08:00 [tools] exec failed: zsh:1: command not found: scutil
+
+Command exited with code 127
+2026-02-17T15:28:51.428-08:00 [tools] exec failed: 0:52: execution error: sh: /usr/bin/scutil: No such file or directory (127)
+
+Command exited with code 1
+2026-02-17T15:28:56.562-08:00 [tools] exec failed: 74:79: execution error: System Events got an error: Can’t get window 1 of process "System Settings". Invalid index. (-1719)
+
+Command exited with code 1
+2026-02-17T15:31:30.211-08:00 [tools] exec failed: Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+ModuleNotFoundError: No module named 'Quartz'
+
+Command exited with code 1

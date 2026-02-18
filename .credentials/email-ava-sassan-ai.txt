@@ -1,0 +1,5 @@
+Email: ava@sassan.ai
+Password: YV8j*cGgBSQ35bZQSbSB
+Account Type: Microsoft 365
+Login URL: https://www.microsoft.com/en-us/microsoft-365/outlook/log-in
+Created: 2026-02-17
