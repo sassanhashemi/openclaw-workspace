@@ -108,3 +108,15 @@
 2026-02-17T05:45:03.951Z [telegram] [default] starting provider (@openclaw_avabot)
 2026-02-17T18:00:43.266Z [browser/chrome] 🦞 openclaw browser started (chrome) profile "openclaw" on 127.0.0.1:18800 (pid 49540)
 2026-02-17T23:08:14.307Z [browser/chrome] 🦞 openclaw browser started (chrome) profile "openclaw" on 127.0.0.1:18800 (pid 60459)
+2026-02-21T20:42:58.970Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/ava/.openclaw/canvas)
+2026-02-21T20:42:59.007Z [heartbeat] started
+2026-02-21T20:42:59.008Z [gateway] agent model: anthropic/claude-sonnet-4-5
+2026-02-21T20:42:59.008Z [gateway] listening on ws://127.0.0.1:18789 (PID 1324)
+2026-02-21T20:42:59.009Z [gateway] listening on ws://[::1]:18789
+2026-02-21T20:42:59.009Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-21.log
+2026-02-21T20:42:59.019Z [browser/service] Browser control service ready (profiles=2)
+2026-02-21T20:42:59.193Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-21T20:42:59.197Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-21T20:42:59.198Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-21T20:42:59.201Z [hooks:loader] Registered hook: session-memory -> command:new
+2026-02-21T20:42:59.201Z [hooks] loaded 4 internal hook handlers
